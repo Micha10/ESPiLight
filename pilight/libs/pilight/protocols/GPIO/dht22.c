@@ -38,7 +38,7 @@
 
 #include "../../core/pilight.h"
 #include "../../core/common.h"
-#include "../../core/dso.h"
+//#include "../../core/dso.h"
 #include "../../core/log.h"
 #include "../../core/threads.h"
 #include "../../core/binary.h"

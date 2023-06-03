@@ -37,7 +37,7 @@
 #include "../../core/threads.h"
 #include "../../core/pilight.h"
 #include "../../core/common.h"
-#include "../../core/dso.h"
+//#include "../../core/dso.h"
 #include "../../core/datetime.h" // Full path because we also have a datetime protocol
 #include "../../core/log.h"
 #include "../../core/http.h"

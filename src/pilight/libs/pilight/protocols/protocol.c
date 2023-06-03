@@ -24,7 +24,7 @@
 #include "../core/log.h"
 #include "protocol.h"
 
-#include "protocol_header.h"
+//#include "protocol_header.h"
 
 struct protocols_t *pilight_protocols = NULL;
 

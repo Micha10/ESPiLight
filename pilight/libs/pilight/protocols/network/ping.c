@@ -37,7 +37,7 @@
 #include "../../core/pilight.h"
 #include "../../core/ping.h"
 #include "../../core/common.h"
-#include "../../core/dso.h"
+//#include "../../core/dso.h"
 #include "../../core/log.h"
 #include "../protocol.h"
 #include "../../core/json.h"
