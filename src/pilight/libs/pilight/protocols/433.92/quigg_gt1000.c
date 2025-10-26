@@ -49,6 +49,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
+#include <time.h>
 
 #include "../../core/pilight.h"
 #include "../../core/common.h"
