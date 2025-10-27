@@ -1,3 +1,5 @@
+#ifndef _PILIGHT_PROTOCOL_HEADER_H_
+#define _PILIGHT_PROTOCOL_HEADER_H_
 #include "433.92/alecto_ws1700.h"
 #include "433.92/alecto_wsd17.h"
 #include "433.92/alecto_wx500.h"
@@ -50,3 +52,4 @@
 #include "433.92/tfa2017.h"
 #include "433.92/tfa30.h"
 #include "433.92/x10.h"
+#endif // _PILIGHT_PROTOCOL_HEADER_H_

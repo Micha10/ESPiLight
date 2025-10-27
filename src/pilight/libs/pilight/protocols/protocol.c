@@ -24,7 +24,7 @@
 #include "../core/log.h"
 #include "protocol.h"
 
-//#include "protocol_header.h"
+#include "protocol_header.h" // Re-aktiviert: stellt Deklarationen wie x10Init bereit
 
 struct protocols_t *pilight_protocols = NULL;
 
